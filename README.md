@@ -161,6 +161,6 @@ project_generator/
 
 ## 作者
 
-* **名前**: *Your Name*
-* **メール**: *[your.email@example.com]()*
-* **GitHub**: [your\_username](https://github.com/your_username)
+* **名前**: *stemtazoo*
+* **メール**: *[stem.sci.tech.eng.math.2013@gmail.com]()*
+* **GitHub**: [stemtazoo](https://github.com/stemtazoo)
